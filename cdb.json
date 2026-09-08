@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.0.0/cdb_1.0.0_windows_amd64.zip",
+            "bin": [
+                "cdb.exe"
+            ],
+            "hash": "968b67a09311f49f8e667abfdf2469ae47010b8076ab385d844a5adb9294ee7c"
+        },
+        "arm64": {
+            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.0.0/cdb_1.0.0_windows_arm64.zip",
+            "bin": [
+                "cdb.exe"
+            ],
+            "hash": "a5ab189b690d5e54d5ec1310fbfedcafab25e9954ee3376c91e2d2f01faef72e"
+        }
+    },
+    "homepage": "https://github.com/sriannamalai/CDB.CLI",
+    "license": "Apache-2.0",
+    "description": "Interactive CouchDB command line client"
+}
