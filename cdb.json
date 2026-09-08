@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.1.0/cdb_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.1.1/cdb_1.1.1_windows_amd64.zip",
             "bin": [
                 "cdb.exe"
             ],
-            "hash": "e6aa27cc8766cefadb8e6b9e7c99b1e7a84e0c08ed6a450021215bf58c5f65c6"
+            "hash": "63fcb96f99f28a335f86aab3db31cf8ea9cede51706da7cf2695b3d80d02e3ff"
         },
         "arm64": {
-            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.1.0/cdb_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/sriannamalai/CDB.CLI/releases/download/v1.1.1/cdb_1.1.1_windows_arm64.zip",
             "bin": [
                 "cdb.exe"
             ],
-            "hash": "58b5051fee77587c78e90fabac79054c6c4ff2a3ccc1488ce85e0cefdc27dfa5"
+            "hash": "8c80cf082801f2ac25b753da63f42e85c025c7253b1961540525796bafb54524"
         }
     },
     "homepage": "https://github.com/sriannamalai/CDB.CLI",
